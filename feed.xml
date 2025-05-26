@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>NBA News Digest</title>
+    <link>https://nba.com</link>
+    <description>Summarized NBA news in one place</description>
+    <item>
+      <title>Test Article</title>
+      <link>https://espn.com</link>
+      <pubDate>Sat, 25 May 2025 18:00:00 GMT</pubDate>
+      <description><![CDATA[Just testing the feed!]]></description>
+    </item>
+  </channel>
+</rss>
